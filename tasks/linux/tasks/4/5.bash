@@ -1,2 +1,2 @@
 
-chmod 776 config.yml 
+chmod 660 config.yml 

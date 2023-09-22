@@ -1,2 +1,2 @@
 
-grep -r -w -o 'pizza' . | sort -nr | uniq -c | head -5
+grep -r -w -o 'pizza' . | sort -nr | uniq -c | head -5 | sort
